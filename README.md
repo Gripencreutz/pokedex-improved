@@ -1,4 +1,14 @@
+A Pokemon website that display all pokemons and there stats, type etc.
+All info comes from https://pokeapi.co/
+
+Please check it out:
 https://gripencreutz.github.io/pokedex-improved/#/
+
+
+
+
+
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
